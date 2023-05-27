@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 -->
 
-### **Hi, I'm Manali Joshi!**
+### **Hi, I'm Manali!**
 
 #### I'm a Frontend Developer and UX Designer.
 
