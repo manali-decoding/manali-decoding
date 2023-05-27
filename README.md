@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on creating web applications using HTML5, CSS3 and Javascript.
 - 🌱 I’m currently learning React.
-- 📫 How to reach me: manalidecoding@gmail.com
+- 📫 How to reach me: designsbymanali@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I own 55+ houseplants and I love spending time in nature.
 
